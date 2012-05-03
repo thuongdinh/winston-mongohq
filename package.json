@@ -1,14 +1,14 @@
 {
     "name": "winston-mongohq",
     "description": "A MongoHQ transport for winston",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "Thuong Dinh <thuongdinh99@gmail.com>",
     "contributors": [
         { "name": "Charlie Robbins", "email": "charlie.robbins@gmail.com" }
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/indexzero/winston-mongodb.git"
+        "url": "http://github.com/zneo99/winston-mongohq.git"
     },
     "keywords": ["logging", "sysadmin", "tools", "winston", "mongodb", "mongohq"],
     "dependencies": {
